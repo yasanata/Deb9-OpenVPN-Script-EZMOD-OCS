@@ -379,7 +379,7 @@ echo "PLEASE WAIT PATIENTLY AND RELOGIN TO YOUR VPS"
 echo " "
 echo "--------------------------- Configuration Setup Server -------------------------"
 echo "                         Copyright HostingTermurah.net                          "
-echo "                                Modified by wangzki                        "
+echo "                                Modified by YasaNata                        "
 echo "--------------------------------------------------------------------------------"
 echo ""  | tee -a log-install.txt
 echo "Server Information"  | tee -a log-install.txt
@@ -408,7 +408,7 @@ echo "   - Installation Log        : cat /root/log-install.txt"  | tee -a log-in
 echo ""  | tee -a log-install.txt
 echo "   - Webmin                  : http://$MYIP:10000/"  | tee -a log-install.txt
 echo ""
-echo "------------------------------ Modified by RadzVPN -----------------------------"
+echo "------------------------------ Modified by YasaNata -----------------------------"
 echo "-----Rebooting your VPS -----"
 sleep 5
 reboot
